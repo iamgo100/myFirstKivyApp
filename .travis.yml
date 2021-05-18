@@ -30,6 +30,6 @@ install:
   - ls bin/ -l
   - echo "TODO"
   - gem install dpl --pre
-  - dpl releases --token $MyFirstKivyApp --file "bin/painter-0.1-armeabi-v7a-debug.apk" --tag_name "v.1.0"
+  - dpl releases --token $MyFirstKivyApp --file "bin/myapp-0.1-armeabi-v7a-debug.apk" --tag_name "v.1.0"
   - echo "TODO 2"
 
