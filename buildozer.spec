@@ -1,13 +1,13 @@
 [app]
 
 # (str) Title of your application
-title = Mobile App 001
+title = Simple Painter
 
 # (str) Package name
-package.name = mobileapp001
+package.name = painter-app-1-0
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.wiseplat
+package.domain = org.iamgo100
 
 # (str) Source code where the main.py live
 source.dir = .
